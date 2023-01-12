@@ -15,10 +15,14 @@ p{
     bottom: 750px;
 }
 
-.navbar li{
-  padding-left: 50px;
-  padding-right: 50px;
+.navbar a{
   font-size: 20px;
+  background-color: pink;
+  width: 150px;
+}
+
+li .active{
+  background-color: pink !important;
 }
 
 h1{
