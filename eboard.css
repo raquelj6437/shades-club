@@ -1,0 +1,92 @@
+/* eboard page */
+/* #middlepic{
+  text-align: center;
+  color: blue;
+}
+
+.row{
+  text-align: center;
+  padding:auto;
+  margin:auto;
+  display: flex;
+  flex-direction: row;
+  padding: 2.7%;
+  justify-content: center;
+  width: 100%;
+  height: 30%
+}
+
+.col-sm-4{
+  margin: auto;
+  width:auto;
+  height: auto;
+}
+
+.member{
+  border-radius: 50%;
+}
+
+.middle{
+  border: none !important;
+  height: auto;
+}
+
+#middlepic{
+  height: 400px;
+  width: 400px;
+}
+
+.member-button span {
+  max-width: 0;
+  height: 0;
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+  transition: max-width 0.5s, height 0.5s;
+  -webkit-transition: max-width 0.5s, height 0.5s;
+  line-height: 1.8;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.member-button:hover span {
+  width: 300px;
+  max-width: 20rem;
+  height: 5px;
+  overflow: visible;
+}
+
+.member-pic{
+  height: 150px;
+  width: 150px;
+  border: 0.5px transparent solid;
+  border-radius: 50%;
+} */
+
+.image{
+  height: 300px;
+  width: 104%;
+  opacity: 80%;
+}
+
+.description{
+  display: none;
+}
+
+.row{
+  text-align: center;
+}
+
+.row:hover .text{
+  display: none;
+}
+
+.row:hover .description{
+  display: block;
+}
+
+.text, .description{
+  margin-top: 20%;
+  margin-left: 20px;
+  margin-right: 20px;
+}

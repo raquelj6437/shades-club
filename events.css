@@ -1,0 +1,44 @@
+.btn{
+  width: 100%;
+  background-color: transparent;
+  border-bottom: 1px solid;
+  margin-bottom: 5px;
+  text-align: left;
+  font-size: 17px;
+  font-style: oblique;
+}
+
+.card{
+  border: none;
+  text-align: left;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+h2{
+  text-align: center;
+}
+
+.col-sm-6 p{
+  font-size: 15px;
+}
+
+.card img{
+  width: 80%;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#eventsHeader img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#prev-events{
+  text-align: center;
+  margin-top: 50px;
+}
