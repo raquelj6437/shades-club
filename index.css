@@ -101,7 +101,7 @@
 }
 
 .insta-card-mobile img{
-  height: 400px;
+  height: 500px;
   width: 100%;
 }
 
@@ -160,10 +160,6 @@
     display: none
   }
 
-  .card p{
-    margin-top: 50%;
-  }
-
   .insta-card{
     display: none;
   }
@@ -172,6 +168,7 @@
     font-size: 40px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px;
   }
 }
 

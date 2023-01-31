@@ -47,4 +47,8 @@ h2{
   .navbar {
     top: 100px;
   }
+
+  #eventsHeader img{
+    height: 400px;
+  }
 }
