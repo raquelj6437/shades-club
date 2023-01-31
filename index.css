@@ -107,7 +107,8 @@
 
 .text-mobile{
   margin-top: 20px;
-  margin-left: 150px;
+  /* margin-left: 150px; */
+  text-align: center;
 }
 
 /* instagram card overlay */
