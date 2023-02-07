@@ -64,4 +64,8 @@ h1{
   .navbar a{
     width: 135px;
   }
+
+  .navbar{
+    border-bottom: solid 5px #C7BAD9;
+  }
 }
