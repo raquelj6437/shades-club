@@ -35,7 +35,7 @@ h2{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 40%;
 }
 
 #prev-events{
@@ -50,5 +50,16 @@ h2{
 
   #eventsHeader img{
     height: 400px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #eventsHeader img{
+    width: 100%;
+  }
+
+  .card img{
+    width: 100%;
+    margin-bottom: 20px;
   }
 }
