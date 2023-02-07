@@ -63,6 +63,10 @@
   border-radius: 50%;
 } */
 
+p{
+  color:#4B080A
+}
+
 .image{
   height: 400px;
   width: 104%;
@@ -112,7 +116,7 @@
   }
 
   .text, .description{
-    height: 250px;
+    height: 300px;
   }
 
   .description p{
