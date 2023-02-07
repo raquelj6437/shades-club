@@ -207,4 +207,8 @@
   .card-mobile{
     display: none;
   }
+
+  .navbar{
+    display: none;
+  }
 }
