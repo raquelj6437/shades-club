@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 
 .body{
   margin-left: 40px;
@@ -95,8 +96,8 @@
   margin-left: 100px;
   margin-right: 100px;
   color: grey;
-  font-family: 'Tangerine', cursive;
-  font-size: 40px;
+  font-family: 'Kalam', cursive;
+  font-size: 30px;
 }
 
 /* instagram cards */

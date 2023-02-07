@@ -63,6 +63,8 @@
   border-radius: 50%;
 } */
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 p{
   color:#4B080A
 }
@@ -94,7 +96,8 @@ p{
 }
 
 .text{
-  font-size: 50px;
+  font-size: 60px;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .description{
